@@ -752,11 +752,11 @@ footer {
     h1 {
         font-size: 64px;
     }
-    .btn-offer:first-child {
-        margin-bottom: 5%;
-    }
     .btn-offer:last-child {
         margin-left: -1.1%;
+    }
+    .btn-offer:first-child {
+        margin-bottom: 5%;
     }
     .main-bottom {
         margin-top: 15%;
